@@ -1,0 +1,13 @@
+			
+This is Whatup Code
+
+
+		 Author : Pradeep
+
+		1.Profile Page code
+			
+		2.Chat Screen code
+
+		3.Last seen Code
+
+		4.Attachements (Image , Audio , Video ) code		
