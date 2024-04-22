@@ -14,3 +14,9 @@ This is Whatup Code
 
 
 		5. Hide last seen 
+
+
+
+		6. video feauture added
+
+		7. audio feature added
