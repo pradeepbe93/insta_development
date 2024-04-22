@@ -11,3 +11,6 @@ This is Whatup Code
 		3.Last seen Code
 
 		4.Attachements (Image , Audio , Video ) code		
+
+
+		5. Hide last seen 
